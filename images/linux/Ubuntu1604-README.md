@@ -3,6 +3,7 @@ The following software is installed on machines in the Hosted Ubuntu 1604 pool
 ***
 - 7-Zip 9.20
 - Ansible (ansible 2.8.3)
+- AWS CLI
 - AzCopy (azcopy 7.3.0-netcore)
 - Azure CLI (azure-cli                         2.0.70)
 - Azure CLI (azure-devops                      0.11.0)
