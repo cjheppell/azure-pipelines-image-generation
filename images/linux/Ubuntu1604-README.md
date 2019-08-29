@@ -6,6 +6,7 @@ The following software is installed on machines in the Hosted Ubuntu 1604 pool
 - AzCopy (azcopy 7.3.0-netcore)
 - Azure CLI (azure-cli                         2.0.70)
 - Azure CLI (azure-devops                      0.11.0)
+- AWS CLI 
 - Basic CLI:
   - curl
   - dnsutils
